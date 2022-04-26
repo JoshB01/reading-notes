@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# My Reading Notes
 
-You can use the [editor on GitHub](https://github.com/JoshB01/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+My name is Josh Brewer and I am currently pursuing my marketing degree at the University of North Florida. In my free time i like to workout, design clothes and cook. I'm excited to be starting on this new journey and can't wait to see where it takes me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Growth Mindset
+Having a growth mindset is essentially believing in one's own ability to, well, grow. Someone with this ideal needs perseverance and the ability to take advantage of their resources to achieve their potential in whatever field they pursue. Three ways I remind myself to stay in a growth mindset are:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoshB01/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Remembering that everyone learns at a different pace, so frustration from feeling left behind doesn't bother me
+2. Telling myself that the challenging things are worth doing because they come with the greatest reward
+3. Remembering to tell myself yet; everyting comes in time and learning takes practice to make perfection
