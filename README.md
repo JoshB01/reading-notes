@@ -14,4 +14,6 @@ Having a growth mindset is essentially believing in one's own ability to, well, 
 
 
 ## What I've Learned
-GitHub allows the user to build a website in a streamlined and simplistic manner. With GitHub Pages you can turn GitHub repositories into legible websites for anyone to access. GitHub Pages makes it easy to customize the parameters of your website including headings, text styles etc. For example if you wanted to italicize a word to really emphasize it's importance you would only need to add \* to both sides of the word or phrase.
+GitHub allows the user to build a website in a streamlined and simplistic manner. With GitHub Pages you can turn GitHub repositories into legible websites for anyone to access. GitHub Pages makes it easy to customize the parameters of your website including headings, text styles etc. For example if you wanted to italicize a word to really emphasize it's importance you would only need to add \* to both sides of the word or phrase like this: *example.*
+
+The system we use to make these changes to our GitHub websites is called Markdown, and it's the same system that allowed me to insert that link in the page above this paragraph.
