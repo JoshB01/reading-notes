@@ -11,3 +11,7 @@ Having a growth mindset is essentially believing in one's own ability to, well, 
 3. Remembering to tell myself ***yet;*** everyting comes in time and learning takes practice to make perfection
 
 <https://github.com/JoshB01>
+
+
+## What I've Learned
+GitHub allows the user to build a website in a streamlined and simplistic manner. With GitHub Pages you can turn GitHub repositories into legible websites for anyone to access. GitHub Pages makes it easy to customize the parameters of your website including headings, text styles etc. For example if you wanted to italicize a word to really emphasize it's importance you would only need to add \* to both sides of the word or phrase.
