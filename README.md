@@ -10,4 +10,4 @@ Having a growth mindset is essentially believing in one's own ability to, well, 
 2. Telling myself that the challenging things are worth doing because they come with the greatest reward
 3. Remembering to tell myself ***yet;*** everyting comes in time and learning takes practice to make perfection
 
-https://github.com/JoshB01
+<https://github.com/JoshB01>
