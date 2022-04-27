@@ -46,3 +46,7 @@ Elements can have attributes. These contain extra infromation about the element 
 
 Nesting elements are elements within other elements
 Empty elements have no content
+
+## Semantics
+
+
