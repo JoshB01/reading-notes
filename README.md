@@ -10,6 +10,10 @@ My name is Josh Brewer and I am currently pursuing my marketing degree at the Un
 
 [Class 2](class2.md)
 
+[Class 3](class3.md)
+
+[Class 4](class4.md)
+
 <br/>
 
 <https://github.com/JoshB01>
