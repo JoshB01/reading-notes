@@ -14,6 +14,10 @@ My name is Josh Brewer and I am currently pursuing my marketing degree at the Un
 
 [Class 4](class4.md)
 
+[Class 5](class5.md)
+
+[Class 6](class6.md)
+
 <br/>
 
 <https://github.com/JoshB01>
